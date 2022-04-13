@@ -1,6 +1,6 @@
 # Programming Fundamentals
 
-Programs that can each be written inside the main method or other static methods without having to use OOP concepts. 
+Programs that can each be written inside the main method or other static methods without having to use OOP concepts. Concepts' practice. 
 
 ## Description
 
